@@ -15,12 +15,9 @@ The rules for Braille are:
  
 Example input file:
 ``` 
-
    *  *  *  *  *         * *  *  *  ** 
    **  * *  *   *       **  * ** *   * 
  *       *  *  *      *  * *  *  *     
- 
-
 ```
 
 
