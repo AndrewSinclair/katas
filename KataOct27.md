@@ -1,6 +1,6 @@
 #Kata Oct. 27, 2016
 
-## Braille
+## Braille Transcription
 
 Last week we converted Morse Code to ASCII characters and back again. This week, let's look at transcribing to Braille!
 The rules for Braille are:
@@ -15,12 +15,20 @@ The rules for Braille are:
  
 Example input file:
 ``` 
+
    *  *  *  *  *         * *  *  *  ** 
    **  * *  *   *       **  * ** *   * 
  *       *  *  *      *  * *  *  *     
+ 
+
 ```
 
 
 ### The input file will output 
 
 `Hello World`
+
+
+### The complete braille alphabet can be seen here:
+
+![alt text](http://www.todayifoundout.com/wp-content/uploads/2013/11/braille-alphabet.jpg "Braille Alphabet")
