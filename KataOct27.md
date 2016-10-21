@@ -13,7 +13,7 @@ The rules for Braille are:
  6. Each braille "phrase" will be on three lines. Each new phrase after the first will be separated by a blank line.
 
  
-Example input file:
+###Example input file:
 ``` 
 
    *  *  *  *  *         * *  *  *  ** 
