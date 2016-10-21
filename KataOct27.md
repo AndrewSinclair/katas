@@ -7,20 +7,17 @@ The rules for Braille are:
 
  1. Each letter is represented by a grid two characters wide and three characters tall.
  2. Each character in the input file can be a * or a space
- 3. Each word will start with the braille character that has one dot in the lower right.
+ 3. Each capital letter will be two braille characters: the braille character that has one dot in the lower right and the braille character representing that alhpabet.
  4. Each braille character will have a 1 horizontal space between them.
  5. Each braille word will have a 4 horizontal spaces between.
  6. Each braille "phrase" will be on three lines. Each new phrase after the first will be separated by a blank line.
 
  
-###Example input file:
+### Example input file:
 ``` 
-
    *  *  *  *  *         * *  *  *  ** 
    **  * *  *   *       **  * ** *   * 
  *       *  *  *      *  * *  *  *     
- 
-
 ```
 
 
